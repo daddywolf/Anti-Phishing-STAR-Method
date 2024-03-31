@@ -1,6 +1,10 @@
 # Educating Non-Technical Employees to Identify Phishing Emails through the STAR Method
 
-In today's digital era, phishing emails have emerged as a significant cybersecurity threat. These seemingly harmless messages carry the potential risk to personal information and corporate data. With the increasing sophistication and finesse of phishing attacks, identifying them can be particularly challenging for non-technical staff. To address this, I've devised a simple yet highly effective method - the STAR method, aimed at empowering everyone to recognize and deal with phishing emails. Let's delve deeper.
+In today's digital era, phishing emails have emerged as a significant cybersecurity threat. These seemingly harmless messages carry the potential risk to personal information and corporate data. With the increasing sophistication and finesse of phishing attacks, identifying them can be particularly challenging for non-technical staff. 
+
+To be honest, employees don't need to know the definition of a phishing email. They quickly become bored with the plethora of technical definitions or concepts. In fact, the best way to educate them is to educate them to be sceptical of any email using the STAR method. Simplify cybersecurity to them.
+
+To address this, I've devised a simple yet highly effective method - the STAR method, aimed at empowering everyone to recognize and deal with phishing emails. Let's delve deeper.
 
 ## Stop
 
